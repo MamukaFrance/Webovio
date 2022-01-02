@@ -376,8 +376,8 @@ body {
 }
 
 .make__row {
-  margin-left: -164px;
-  padding: 70px 0 70px 164px;
+  margin-left: -174px;
+  padding: 70px 0 70px 174px;
   background: #FAFAFA;
   -webkit-box-shadow: 50px 130px 100px rgba(0, 0, 0, 0.145947);
           box-shadow: 50px 130px 100px rgba(0, 0, 0, 0.145947);
@@ -388,4 +388,18 @@ body {
   margin-bottom: 50px;
   font-size: 60px;
   line-height: 74px;
+}
+
+.footer {
+  position: relative;
+}
+
+.footer__body {
+  position: absolute;
+  width: 1346px;
+  top: -181px;
+  z-index: -1;
+  margin-left: -174px;
+  height: 920px;
+  background: #4F553D;
 }

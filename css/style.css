@@ -374,3 +374,18 @@ body {
           flex-grow: 1;
   margin: 20px 0 28px;
 }
+
+.make__row {
+  margin-left: -164px;
+  padding: 70px 0 70px 164px;
+  background: #FAFAFA;
+  -webkit-box-shadow: 50px 130px 100px rgba(0, 0, 0, 0.145947);
+          box-shadow: 50px 130px 100px rgba(0, 0, 0, 0.145947);
+}
+
+.make__title {
+  width: 822px;
+  margin-bottom: 50px;
+  font-size: 60px;
+  line-height: 74px;
+}

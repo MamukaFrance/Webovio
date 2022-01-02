@@ -308,13 +308,26 @@ background: rgba(33, 56, 66, 0.0955529);
 }
 .footer{
     position: relative;
+   
 }
 .footer__body{
-    position: absolute;
+    
     width: 1346px;
     top: -181px;
     z-index: -1;
     margin-left: -174px;
     height: 920px;
     background: #4F553D;
+    padding-top: 260px;
+}
+.footer__contact {
+    display: flex;
+}
+.contact__item {
+}
+.contact__text {
+}
+.contact__link {
+}
+.link {
 }

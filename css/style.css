@@ -395,11 +395,17 @@ body {
 }
 
 .footer__body {
-  position: absolute;
   width: 1346px;
   top: -181px;
   z-index: -1;
   margin-left: -174px;
   height: 920px;
   background: #4F553D;
+  padding-top: 260px;
+}
+
+.footer__contact {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
